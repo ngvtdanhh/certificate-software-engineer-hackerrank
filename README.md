@@ -12,7 +12,7 @@ This repository contains notes, exercises, practical files, and the official cer
 
 ## 📜 Certificate
 
-- 🎓 [HackerRank Software Engineer – Verified Certification](./cert/certificate-ethical-hacking-henryharvin.pdf)
+- 🎓 [HackerRank Software Engineer – Verified Certification](./cert/software_engineer-certificate.jpg)
 
 ---
 
