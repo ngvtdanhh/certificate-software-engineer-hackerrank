@@ -25,8 +25,6 @@ def count_products_in_price_range(category, min_price, max_price):
 
     return count
 
-
-# Ví dụ sử dụng:
 if __name__ == "__main__":
     category_name = "Accessories"
     min_price = 800.0
